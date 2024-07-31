@@ -1,0 +1,44 @@
+.authentication{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #005555;
+}s
+.authentication-form{
+  width:400px;
+}
+
+.authentication .card-title{
+  font-size: 1.5rem;
+  font-weight: bold;
+  background-color: rgb(129, 15, 15);;
+  color: white !important;
+  max-width: max-content !important;
+  padding: 7px 15px;
+  margin-left: -40px;
+  border-bottom-left-radius: 10px;
+  border: 1px solid gray;
+
+}
+.card-title{
+  font-size: 22px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.418);
+
+
+}
+/* =========== */
+.register-form {
+  padding: 30px;
+  background-color: white;
+}
+.anchor{
+  color: black !important;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 16px !important;
+}
+.anchor:hover{
+  text-decoration: underline !important;
+}
